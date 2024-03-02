@@ -11,7 +11,7 @@ This repository contains a collection of basic Python exercises developed during
 
 1. [Introductory exercices to Python](#Introductory-exercices-to-Python)
 2. [Structures and Control exercices](#Structures-and-Control-exercices)
-3. [First basic Python exercices](First-basic-Python-exercices)
+3. [First basic Python exercices](#First-basic-Python-exercices)
 
 ---
 
