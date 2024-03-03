@@ -3,6 +3,7 @@
 
  ![image](https://github.com/Marina-Schluter/Python-inicial/assets/161477794/969e745f-7bce-4472-a7dd-6e427596bb5b)    ![descarga](https://github.com/Marina-Schluter/Python-inicial/assets/161477794/735d0446-4b3f-4211-8cdf-bb75efe65ed6)
 
+![alt text](image.png)
 
 
 This repository contains a collection of basic Python exercises developed during the Upgrade Hub bootcamp. These exercises cover a variety of topics, including creations of different kind of variables or basic arithmetc operations. 
