@@ -1,8 +1,6 @@
 # Basic Python
  Basic Python exercises for beginners
 
-![alt text](image-2.png)
-
 ![alt text](image-4.png)
 
 
